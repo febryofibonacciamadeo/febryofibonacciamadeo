@@ -1,96 +1,74 @@
-<div align="center">
+# Febryo Fibonacci Amadeo
 
-# Hai, saya Febryo 👋
+**Software Engineer · AI/Machine Learning Enthusiast**
 
-### Software Engineer · Machine Learning Enthusiast
+Informatics Engineering graduate (UIN Sunan Gunung Djati Bandung) with 4+ years building production web and mobile systems, and an active research interest in Reinforcement Learning applied to socially meaningful problems.
 
-*Informatics Engineering graduate dari UIN Sunan Gunung Djati Bandung, dengan 4+ tahun pengalaman pengembangan aplikasi web & mobile*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](#)
-
-</div>
+[LinkedIn](https://linkedin.com/in/febryofibonaccia) · [Portfolio](https://febryofibonacciamadeo.github.io) · [X / Twitter](https://twitter.com/febryofammd)
 
 ---
 
-## 🧭 Tentang Saya
+## About
 
-Saya seorang *software engineer* dengan latar belakang kuat di pengembangan aplikasi **web dan mobile**, serta minat mendalam pada **riset kecerdasan buatan**, khususnya *Reinforcement Learning* dan penerapannya pada masalah dunia nyata yang bermakna secara sosial — seperti optimasi distribusi zakat di institusi keuangan sosial Islam.
+I build reliable web and mobile products — POS systems, warehouse management platforms, and institutional information systems — while researching the intersection of **Machine Learning, Reinforcement Learning, and Islamic social finance**.
 
-Saat ini fokus saya terbagi antara pengembangan produk komersial (POS, WMS, sistem informasi institusi ZIS) dan eksplorasi riset pada perpotongan **Machine Learning × Islamic Social Finance × Institutional Data**.
+My undergraduate thesis, *Hybrid Long-Term Fairness (HLTF)*, applies **Constrained Reinforcement Learning (PPO-Lagrangian)** to optimize zakat distribution across 30 sub-districts in Bandung — introducing an explicit fairness constraint based on the Long-Term Benefit Rate. It reflects the kind of work I'm drawn to: production-grade engineering paired with rigorous, fairness-aware AI research.
 
-- 🔭 Sedang mengerjakan **PosRitel Mobile** — aplikasi label printer berbasis React Native untuk printer thermal Bluetooth
-- 🌱 Terus memperdalam **Reinforcement Learning** dan *fairness-constrained decision making*
-- 🎓 Menyelesaikan skripsi tentang **Hybrid Long-Term Fairness (HLTF)** dalam Constrained RL untuk distribusi zakat
-- 💬 Terbuka untuk diskusi seputar **Laravel, React/Inertia, React Native, dan RL research**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**Currently:**
+- Building **PosRitel Mobile**, a React Native app for Bluetooth thermal label printing
+- Deepening my study of Reinforcement Learning and fairness-constrained decision-making
+- Open to conversations on Laravel, React/Inertia, React Native, and RL research
 
 ---
 
-## 🚀 Proyek Unggulan
+## Tech Stack
 
-### 🕌 [HLTF-CMDP](#) — RL untuk Distribusi Zakat
-Kerangka kerja *Hybrid Long-Term Fairness* yang mengintegrasikan **Constrained RL (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate (LBR).
+| Domain | Technologies |
+|---|---|
+| Backend | PHP, Laravel |
+| Frontend | React, Inertia.js, JavaScript |
+| Mobile | React Native |
+| AI / ML | Python, PyTorch |
+| Databases | MySQL, MS SQL Server |
+| Tooling | Docker, Git |
+
+---
+
+## Selected Projects
+
+**HLTF-CMDP — Reinforcement Learning for Zakat Distribution**
+Constrained RL (PPO-Lagrangian) framework optimizing fairness-aware fund distribution across 30 districts, using a custom Long-Term Benefit Rate constraint.
 `Python` `PyTorch` `Reinforcement Learning` `Design Science Research`
 
-### 🛒 PosRitel — Platform POS
-Platform *Point of Sale* lengkap dengan aplikasi web (posritel.com) dan aplikasi Android di Google Play Store.
+**PosRitel — Point-of-Sale Platform**
+Full POS platform with a web app and an Android app published on Google Play.
 `Laravel` `React` `Mobile`
 
-### 📱 PosRitel Mobile — Label Printer App
-Aplikasi React Native untuk mencetak label barcode/harga produk ke printer thermal Bluetooth, dibangun dengan New Architecture (Fabric).
+**PosRitel Mobile — Bluetooth Label Printer App**
+React Native app (New Architecture / Fabric) for printing barcode and price labels to Bluetooth thermal printers.
 `React Native` `Bluetooth SPP` `Bare CLI`
 
-### 📦 POS + WMS System
-Sistem Point of Sale terintegrasi dengan Warehouse Management System, berjalan lintas platform (web, Android, iOS, tablet) dengan backend Laravel + Inertia.js + React di atas MS SQL Server.
+**POS + WMS System**
+Cross-platform Point-of-Sale system integrated with Warehouse Management, running on web, Android, iOS, and tablet, backed by Laravel + Inertia.js + MS SQL Server.
 `Laravel` `Inertia.js` `React` `MS SQL Server`
 
-### 🕌 Sistem Informasi LAZIS Darul Hikam
-Sistem manajemen institusi zakat/infak/sedekah — mencakup modul keuangan, penyaluran dana, absensi, hingga campaign donasi — dalam proses migrasi dari Blade/jQuery ke Vite + Inertia + React.
+**Zakat Institution Information System (LAZIS Darul Hikam)**
+Institutional management system covering finance, fund disbursement, attendance, and donation campaigns; migrated from Blade/jQuery to Vite + Inertia + React.
 `Laravel` `Inertia.js` `React`
 
-### 🏦 QMS Teller Dashboard
-Webform dan dashboard untuk pelacakan transaksi teller secara akurat pada sistem antrian (Queue Management System) di cabang bank.
-`Web App` `Dashboard`
-
-### 🎙️ Speech-to-Text Verifikasi Hafalan Al-Qur'an — IICYMS 2024
-Proyek riset verifikasi hafalan Al-Qur'an berbasis *speech-to-text* menggunakan **LSTM dan BERT**.
+**Speech-to-Text Qur'an Memorization Verification — IICYMS 2024**
+Research project verifying Qur'an memorization using speech-to-text models built on LSTM and BERT.
 `Python` `LSTM` `BERT` `NLP`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryofibonacciamadeo&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=febryofibonacciamadeo&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165"/>
+</p>
 
 ---
 
-<div align="center">
-
-*"Building thoughtful software, and researching fair, socially-impactful AI."*
-
-</div>
+*Building thoughtful software, and researching fair, socially-impactful AI.*
