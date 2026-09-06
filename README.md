@@ -2,67 +2,67 @@
 
 **Software Engineer · AI/Machine Learning Enthusiast**
 
-Informatics Engineering graduate (UIN Sunan Gunung Djati Bandung) with 4+ years building production web and mobile systems, and an active research interest in Reinforcement Learning applied to socially meaningful problems.
+Lulusan Teknik Informatika (UIN Sunan Gunung Djati Bandung) dengan 4+ tahun pengalaman membangun sistem web dan mobile production-grade, serta minat riset aktif pada Reinforcement Learning yang diterapkan pada masalah-masalah yang bermakna secara sosial.
 
 [LinkedIn](https://linkedin.com/in/febryofibonaccia) · [Portfolio](https://febryofibonacciamadeo.github.io) · [X / Twitter](https://twitter.com/febryofammd)
 
 ---
 
-## About
+## Tentang Saya
 
-I build reliable web and mobile products — POS systems, warehouse management platforms, and institutional information systems — while researching the intersection of **Machine Learning, Reinforcement Learning, and Islamic social finance**.
+Saya membangun produk web dan mobile yang andal — sistem POS, platform Warehouse Management, hingga sistem informasi institusi — sambil melakukan riset pada perpotongan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
 
-My undergraduate thesis, *Hybrid Long-Term Fairness (HLTF)*, applies **Constrained Reinforcement Learning (PPO-Lagrangian)** to optimize zakat distribution across 30 sub-districts in Bandung — introducing an explicit fairness constraint based on the Long-Term Benefit Rate. It reflects the kind of work I'm drawn to: production-grade engineering paired with rigorous, fairness-aware AI research.
+Skripsi saya, *Hybrid Long-Term Fairness (HLTF)*, menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan di Kota Bandung — dengan fairness constraint eksplisit berbasis Long-Term Benefit Rate. Ini mencerminkan jenis pekerjaan yang saya minati: rekayasa perangkat lunak tingkat produksi yang dipadukan dengan riset AI yang berorientasi pada fairness.
 
-**Currently:**
-- Building **PosRitel Mobile**, a React Native app for Bluetooth thermal label printing
-- Deepening my study of Reinforcement Learning and fairness-constrained decision-making
-- Open to conversations on Laravel, React/Inertia, React Native, and RL research
+**Saat ini:**
+- Mengembangkan **PosRitel Mobile**, aplikasi React Native untuk pencetakan label via printer thermal Bluetooth
+- Terus memperdalam Reinforcement Learning dan fairness-constrained decision making
+- Terbuka untuk diskusi seputar Laravel, React/Inertia, React Native, dan riset RL/NLP
 
 ---
 
 ## Tech Stack
 
-| Domain | Technologies |
+| Domain | Teknologi |
 |---|---|
 | Backend | PHP, Laravel |
 | Frontend | React, Inertia.js, JavaScript |
 | Mobile | React Native |
 | AI / ML | Python, PyTorch |
-| Databases | MySQL, MS SQL Server |
+| Database | MySQL, MS SQL Server |
 | Tooling | Docker, Git |
 
 ---
 
-## Selected Projects
+## Proyek Unggulan
 
-**HLTF-CMDP — Reinforcement Learning for Zakat Distribution**
-Constrained RL (PPO-Lagrangian) framework optimizing fairness-aware fund distribution across 30 districts, using a custom Long-Term Benefit Rate constraint.
+**HLTF-CMDP — Reinforcement Learning untuk Distribusi Zakat**
+Kerangka kerja Constrained RL (PPO-Lagrangian) yang mengoptimalkan distribusi dana secara adil di 30 kecamatan, menggunakan constraint Long-Term Benefit Rate yang dirancang khusus.
 `Python` `PyTorch` `Reinforcement Learning` `Design Science Research`
 
-**PosRitel — Point-of-Sale Platform**
-Full POS platform with a web app and an Android app published on Google Play.
+**Speech-to-Text Verifikasi Hafalan Al-Qur'an — IICYMS 2024**
+Proyek riset NLP untuk memverifikasi hafalan Al-Qur'an menggunakan pipeline speech-to-text berbasis **LSTM** dan **BERT**, dipresentasikan pada IICYMS 2024. Menggabungkan pemrosesan sinyal suara dengan pemodelan bahasa untuk mendeteksi kesalahan bacaan secara otomatis.
+`Python` `LSTM` `BERT` `NLP` `Speech Processing`
+
+**PosRitel — Platform Point-of-Sale**
+Platform POS lengkap dengan aplikasi web dan aplikasi Android yang dipublikasikan di Google Play.
 `Laravel` `React` `Mobile`
 
-**PosRitel Mobile — Bluetooth Label Printer App**
-React Native app (New Architecture / Fabric) for printing barcode and price labels to Bluetooth thermal printers.
+**PosRitel Mobile — Aplikasi Label Printer Bluetooth**
+Aplikasi React Native (New Architecture / Fabric) untuk mencetak label barcode dan harga ke printer thermal Bluetooth.
 `React Native` `Bluetooth SPP` `Bare CLI`
 
 **POS + WMS System**
-Cross-platform Point-of-Sale system integrated with Warehouse Management, running on web, Android, iOS, and tablet, backed by Laravel + Inertia.js + MS SQL Server.
+Sistem Point-of-Sale lintas platform yang terintegrasi dengan Warehouse Management, berjalan di web, Android, iOS, dan tablet, dengan backend Laravel + Inertia.js + MS SQL Server.
 `Laravel` `Inertia.js` `React` `MS SQL Server`
 
-**Zakat Institution Information System (LAZIS Darul Hikam)**
-Institutional management system covering finance, fund disbursement, attendance, and donation campaigns; migrated from Blade/jQuery to Vite + Inertia + React.
+**Sistem Informasi Institusi Zakat (LAZIS Darul Hikam)**
+Sistem manajemen institusi mencakup modul keuangan, penyaluran dana, absensi, dan campaign donasi; dalam proses migrasi dari Blade/jQuery ke Vite + Inertia + React.
 `Laravel` `Inertia.js` `React`
-
-**Speech-to-Text Qur'an Memorization Verification — IICYMS 2024**
-Research project verifying Qur'an memorization using speech-to-text models built on LSTM and BERT.
-`Python` `LSTM` `BERT` `NLP`
 
 ---
 
-## GitHub Activity
+## Aktivitas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryofibonacciamadeo&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
@@ -71,4 +71,4 @@ Research project verifying Qur'an memorization using speech-to-text models built
 
 ---
 
-*Building thoughtful software, and researching fair, socially-impactful AI.*
+*Membangun perangkat lunak yang matang, sekaligus meneliti AI yang adil dan berdampak sosial.*
