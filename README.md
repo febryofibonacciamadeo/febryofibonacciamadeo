@@ -10,7 +10,7 @@ Lulusan Teknik Informatika (UIN Sunan Gunung Djati Bandung) dengan 4+ tahun peng
 
 ## Tentang Saya
 
-Saya membangun produk web dan mobile yang andal — sistem POS, platform Warehouse Management, hingga sistem informasi institusi — sambil melakukan riset pada perpotongan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
+Saya membangun produk web dan mobile yang andal yaitu sistem POS, platform Warehouse Management, hingga sistem informasi institusi dan melakukan riset pada perpotongan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
 
 Skripsi saya, *Hybrid Long-Term Fairness (HLTF)*, menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan di Kota Bandung — dengan fairness constraint eksplisit berbasis Long-Term Benefit Rate. Ini mencerminkan jenis pekerjaan yang saya minati: rekayasa perangkat lunak tingkat produksi yang dipadukan dengan riset AI yang berorientasi pada fairness.
 
@@ -44,7 +44,7 @@ Kerangka kerja Constrained RL (PPO-Lagrangian) yang mengoptimalkan distribusi da
 Proyek riset NLP untuk memverifikasi hafalan Al-Qur'an menggunakan pipeline speech-to-text berbasis **LSTM** dan **BERT**, dipresentasikan pada IICYMS 2024. Menggabungkan pemrosesan sinyal suara dengan pemodelan bahasa untuk mendeteksi kesalahan bacaan secara otomatis.
 `Python` `LSTM` `BERT` `NLP` `Speech Processing`
 
-**PosRitel — Platform Point-of-Sale**
+**PosRitel — Platform Point-of-Sales**
 Platform POS lengkap dengan aplikasi web dan aplikasi Android yang dipublikasikan di Google Play.
 `Laravel` `React` `Mobile`
 
