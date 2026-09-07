@@ -1,73 +1,117 @@
 # Febryo Fibonacci Amadeo
 
-**Software Engineer · AI/Machine Learning Enthusiast**
+**Software Engineer · AI/ML Research Enthusiast**
 
-Lulusan Teknik Informatika (UIN Sunan Gunung Djati Bandung) dengan 4+ tahun pengalaman membangun sistem web dan mobile production-grade, serta minat riset aktif pada Reinforcement Learning yang diterapkan pada masalah-masalah yang bermakna secara sosial.
+Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung · 4+ tahun membangun sistem web & mobile production-grade · riset aktif pada Reinforcement Learning untuk masalah sosial
 
-[LinkedIn](https://linkedin.com/in/febryofibonaccia) · [Portfolio](https://febryofibonacciamadeo.github.io) · [X / Twitter](https://twitter.com/febryofammd)
-
----
-
-## Tentang Saya
-
-Saya membangun produk web dan mobile yang andal yaitu sistem POS, platform Warehouse Management, hingga sistem informasi institusi dan melakukan riset pada perpotongan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
-
-Skripsi saya, *Hybrid Long-Term Fairness (HLTF)*, menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan di Kota Bandung — dengan fairness constraint eksplisit berbasis Long-Term Benefit Rate. Ini mencerminkan jenis pekerjaan yang saya minati: rekayasa perangkat lunak tingkat produksi yang dipadukan dengan riset AI yang berorientasi pada fairness.
-
-**Saat ini:**
-- Mengembangkan **PosRitel Mobile**, aplikasi React Native untuk pencetakan label via printer thermal Bluetooth
-- Terus memperdalam Reinforcement Learning dan fairness-constrained decision making
-- Terbuka untuk diskusi seputar Laravel, React/Inertia, React Native, dan riset RL/NLP
+📍 Bandung, Indonesia &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/febryofibonaccia) &nbsp;·&nbsp; [Portfolio](https://febryofibonacciamadeo.github.io) &nbsp;·&nbsp; [X/Twitter](https://twitter.com/febryofammd) &nbsp;·&nbsp; [GitHub](https://github.com/febryofibonacciamadeo)
 
 ---
 
-## Tech Stack
+## Ringkasan
+
+Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** — untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
+
+Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate — memadukan rekayasa perangkat lunak yang matang dengan riset AI yang berorientasi dampak sosial.
+
+**Fokus saat ini:**
+- Mengembangkan **PosRitel Mobile** (React Native) — pencetakan label produk via printer thermal Bluetooth
+- Memperdalam Reinforcement Learning & *fairness-constrained decision making*
+- Terbuka untuk diskusi Laravel, React/Inertia, React Native, dan riset RL/NLP
+
+---
+
+## Kompetensi
 
 | Domain | Teknologi |
 |---|---|
 | Backend | PHP, Laravel |
 | Frontend | React, Inertia.js, JavaScript |
-| Mobile | React Native |
-| AI / ML | Python, PyTorch |
+| Mobile | React Native (New Architecture / Fabric) |
+| AI / Machine Learning | Python, PyTorch, TensorFlow/Keras, scikit-learn |
 | Database | MySQL, MS SQL Server |
-| Tooling | Docker, Git |
+| Tooling & Infra | Docker, Git |
+
+---
+
+## Area Kerja
+
+```mermaid
+flowchart LR
+    A["Software Engineering\n(Laravel · React · React Native)"] -->|dipakai untuk membangun| B["Produk Production\n(POS, WMS, Sistem Informasi Institusi)"]
+    C["AI / ML Research\n(Reinforcement Learning · NLP · Computer Vision)"] -->|diterapkan pada| D["Masalah Sosial\n(Distribusi Zakat, Verifikasi Hafalan)"]
+    A -.pola berpikir sistem yang sama.-> C
+```
 
 ---
 
 ## Proyek Unggulan
 
-**HLTF-CMDP — Reinforcement Learning untuk Distribusi Zakat**
-Kerangka kerja Constrained RL (PPO-Lagrangian) yang mengoptimalkan distribusi dana secara adil di 30 kecamatan, menggunakan constraint Long-Term Benefit Rate yang dirancang khusus.
-`Python` `PyTorch` `Reinforcement Learning` `Design Science Research`
+### Produk Production-Grade
 
-**Speech-to-Text Verifikasi Hafalan Al-Qur'an — IICYMS 2024**
-Proyek riset NLP untuk memverifikasi hafalan Al-Qur'an menggunakan pipeline speech-to-text berbasis **LSTM** dan **BERT**, dipresentasikan pada IICYMS 2024. Menggabungkan pemrosesan sinyal suara dengan pemodelan bahasa untuk mendeteksi kesalahan bacaan secara otomatis.
-`Python` `LSTM` `BERT` `NLP` `Speech Processing`
+Repositori bersifat privat (milik klien/perusahaan) — dicantumkan sebagai ringkasan pekerjaan, bukan tautan repo publik.
 
-**PosRitel — Platform Point-of-Sales**
-Platform POS lengkap dengan aplikasi web dan aplikasi Android yang dipublikasikan di Google Play.
-`Laravel` `React` `Mobile`
+| Proyek | Deskripsi | Stack |
+|---|---|---|
+| **PosRitel — Platform POS** | Sistem Point-of-Sale lengkap: aplikasi web + aplikasi Android yang dipublikasikan di Google Play | Laravel · React |
+| **PosRitel Mobile** | Aplikasi label printer barcode/harga ke printer thermal via Bluetooth SPP | React Native · Bare CLI |
+| **POS + WMS System** | Sistem POS terintegrasi Warehouse Management, lintas platform (web, Android, iOS, tablet) | Laravel · Inertia.js · React · MS SQL Server |
+| **Sistem Informasi LAZIS Darul Hikam** | Modul keuangan, penyaluran dana, absensi, dan campaign donasi untuk institusi ZIS; migrasi dari Blade/jQuery ke Vite + Inertia + React | Laravel · Inertia.js · React |
+| **QMS Teller Dashboard** | Webform & dashboard pelacakan transaksi teller pada sistem antrian cabang bank | Web App · Dashboard |
 
-**PosRitel Mobile — Aplikasi Label Printer Bluetooth**
-Aplikasi React Native (New Architecture / Fabric) untuk mencetak label barcode dan harga ke printer thermal Bluetooth.
-`React Native` `Bluetooth SPP` `Bare CLI`
+### Riset & Proyek Open Source
 
-**POS + WMS System**
-Sistem Point-of-Sale lintas platform yang terintegrasi dengan Warehouse Management, berjalan di web, Android, iOS, dan tablet, dengan backend Laravel + Inertia.js + MS SQL Server.
-`Laravel` `Inertia.js` `React` `MS SQL Server`
-
-**Sistem Informasi Institusi Zakat (LAZIS Darul Hikam)**
-Sistem manajemen institusi mencakup modul keuangan, penyaluran dana, absensi, dan campaign donasi; dalam proses migrasi dari Blade/jQuery ke Vite + Inertia + React.
-`Laravel` `Inertia.js` `React`
+| Proyek | Hasil / Highlight | Stack |
+|---|---|---|
+| [**HLTF-CMDP**](https://github.com/febryofibonacciamadeo/Hybrid_Long-Term_Fairness_with_Proximal_Policy_Optimization_Lagrangian) | Skripsi: Constrained RL (PPO-Lagrangian) untuk distribusi zakat adil di 30 kecamatan, simulasi 52 minggu/episode, dibenchmark terhadap kebijakan aktual BAZNAS & PPO Vanilla | Python · PyTorch · CMDP · Streamlit |
+| [**Facial Skin Ageing Classification**](https://github.com/febryofibonacciamadeo/Facial_Skin_Ageing_Image_Classification_with_Convolutional_Neural_Network-CNN-) | CNN custom untuk klasifikasi 5 kondisi kulit wajah dari citra — akurasi **93,35%** pada data uji; diekspor ke SavedModel, TFLite, dan TensorFlow.js untuk deployment lintas platform | Python · TensorFlow/Keras · OpenCV |
+| [**Perbandingan SVM vs Random Forest — Sentiment Analysis**](https://github.com/febryofibonacciamadeo/Perbandingan_Model_LR_RF_SVM_Analisis_Sentimen_Ulasan_APK_Mobile_Legends_Playstore) | Analisis sentimen ±300 ribu ulasan Play Store (Mobile Legends) dengan lexicon-based labeling; SVM + TF-IDF mencapai akurasi terbaik **87,12%** | Python · scikit-learn · NLTK · Sastrawi |
+| [**Friend — Voice Assistant (SiPren)**](https://github.com/febryofibonacciamadeo/Friend-VoiceAssistant) | Asisten virtual desktop: perintah suara/teks, hotword detection, text-to-speech, buka aplikasi/website, dan fallback chatbot | Python · Eel · pvporcupine · pyttsx3 |
+| **Speech-to-Text Verifikasi Hafalan Al-Qur'an** — *dipresentasikan di IICYMS 2024* | Pipeline speech-to-text berbasis LSTM & BERT untuk mendeteksi kesalahan bacaan hafalan secara otomatis | Python · LSTM · BERT · NLP |
 
 ---
 
 ## Aktivitas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryofibonacciamadeo&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=febryofibonacciamadeo&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="165"/>
-</p>
+> Ringkasan ini dihitung langsung dari data repositori publik (tidak bergantung pada layanan pihak ketiga yang sering *rate-limited*/error).
+
+**36 repositori publik**, mencakup produk pribadi, hasil riset, dan tugas kuliah/praktikum.
+
+**Distribusi bahasa pemrograman (berdasarkan jumlah repositori):**
+
+```
+JavaScript        ████████  8
+Jupyter Notebook   ███████  7
+Python             ████     4
+Kotlin             ███      3
+HTML               ██       2
+Java               █        1
+PHP                █        1
+CSS                █        1
+EJS                █        1
+C++                █        1
+```
+
+Aktivitas terbaru berpusat pada proyek **Machine Learning / Deep Learning** (klasifikasi citra, NLP, dan RL), didukung fondasi proyek web (Laravel/React) dan mobile (Kotlin/React Native) dari pekerjaan-pekerjaan sebelumnya.
+
+---
+
+## Pendidikan
+
+**S1 Teknik Informatika** — UIN Sunan Gunung Djati Bandung
+Skripsi: *Hybrid Long-Term Fairness (HLTF) dalam Constrained Reinforcement Learning untuk Distribusi Zakat Dinamis*
+
+---
+
+## Kontak
+
+| Kanal | Tautan |
+|---|---|
+| Email | [febryofibonacciamadeo@gmail.com](mailto:febryofibonacciamadeo@gmail.com) |
+| LinkedIn | [linkedin.com/in/febryofibonaccia](https://linkedin.com/in/febryofibonaccia) |
+| Portfolio | [febryofibonacciamadeo.github.io](https://febryofibonacciamadeo.github.io) |
+| X / Twitter | [@febryofammd](https://twitter.com/febryofammd) |
+| Instagram | [@ffibonaccia](https://instagram.com/ffibonaccia) |
 
 ---
 
