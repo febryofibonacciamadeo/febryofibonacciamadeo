@@ -55,9 +55,9 @@ Repositori bersifat privat (milik klien/perusahaan)
 |---|---|---|
 | [**HLTF-CMDP**](https://github.com/febryofibonacciamadeo/Hybrid_Long-Term_Fairness_with_Proximal_Policy_Optimization_Lagrangian) | Skripsi: Constrained RL (PPO-Lagrangian) untuk distribusi zakat adil di 30 kecamatan, simulasi 52 minggu/episode, dibenchmark terhadap kebijakan aktual BAZNAS & PPO Vanilla | Python · PyTorch · CMDP · Streamlit |
 | [**Facial Skin Ageing Classification**](https://github.com/febryofibonacciamadeo/Facial_Skin_Ageing_Image_Classification_with_Convolutional_Neural_Network-CNN-) | CNN custom untuk klasifikasi 5 kondisi kulit wajah dari citra — akurasi **93,35%** pada data uji; diekspor ke SavedModel, TFLite, dan TensorFlow.js untuk deployment lintas platform | Python · TensorFlow/Keras · OpenCV |
-| [**Perbandingan SVM vs Random Forest — Sentiment Analysis**](https://github.com/febryofibonacciamadeo/Perbandingan_Model_LR_RF_SVM_Analisis_Sentimen_Ulasan_APK_Mobile_Legends_Playstore) | Analisis sentimen ±300 ribu ulasan Play Store (Mobile Legends) dengan lexicon-based labeling; SVM + TF-IDF mencapai akurasi terbaik **87,12%** | Python · scikit-learn · NLTK · Sastrawi |
-| [**Friend — Voice Assistant (SiPren)**](https://github.com/febryofibonacciamadeo/Friend-VoiceAssistant) | Asisten virtual desktop: perintah suara/teks, hotword detection, text-to-speech, buka aplikasi/website, dan fallback chatbot | Python · Eel · pvporcupine · pyttsx3 |
-| **Speech-to-Text Verifikasi Hafalan Al-Qur'an** — *dipresentasikan di IICYMS 2024* | Pipeline speech-to-text berbasis LSTM & BERT untuk mendeteksi kesalahan bacaan hafalan secara otomatis | Python · LSTM · BERT · NLP |
+| [**Perbandingan SVM vs Random Forest Sentiment Analysis**](https://github.com/febryofibonacciamadeo/Perbandingan_Model_LR_RF_SVM_Analisis_Sentimen_Ulasan_APK_Mobile_Legends_Playstore) | Analisis sentimen ±300 ribu ulasan Play Store (Mobile Legends) dengan lexicon-based labeling; SVM + TF-IDF mencapai akurasi terbaik **87,12%** | Python · scikit-learn · NLTK · Sastrawi |
+| [**Friend Voice Assistant (SiPren)**](https://github.com/febryofibonacciamadeo/Friend-VoiceAssistant) | Asisten virtual desktop: perintah suara/teks, hotword detection, text-to-speech, buka aplikasi/website, dan fallback chatbot | Python · Eel · pvporcupine · pyttsx3 |
+| **Speech-to-Text Verifikasi Hafalan Al-Qur'an** *dipresentasikan di IICYMS 2024* | Pipeline speech-to-text berbasis LSTM & BERT untuk mendeteksi kesalahan bacaan hafalan secara otomatis | Python · LSTM · BERT · NLP |
 
 ---
 
