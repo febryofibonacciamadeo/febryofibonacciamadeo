@@ -2,7 +2,7 @@
 
 **Software Engineer · AI/ML Research Enthusiast**
 
-Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung · 4+ tahun membangun sistem web & mobile production-grade · riset aktif pada Reinforcement Learning untuk masalah sosial
+Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung dengan GPA 3.65/4.00 · 4+ tahun membangun sistem web & mobile production-grade · riset aktif pada Reinforcement Learning untuk masalah sosial
 
 📍 Bandung, Indonesia &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/febryofibonaccia) &nbsp;·&nbsp; [Portfolio](https://febryofibonacciamadeo.github.io) &nbsp;·&nbsp; [X/Twitter](https://twitter.com/febryofammd) &nbsp;·&nbsp; [GitHub](https://github.com/febryofibonacciamadeo)
 
@@ -10,13 +10,13 @@ Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung · 4+ tahun membangun
 
 ## Ringkasan
 
-Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** — untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
+Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
 
-Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate — memadukan rekayasa perangkat lunak yang matang dengan riset AI yang berorientasi dampak sosial.
+Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate, memadukan rekayasa perangkat lunak yang matang dengan riset AI yang berorientasi dampak sosial.
 
 **Fokus saat ini:**
 - Mengembangkan **PosRitel Mobile** (React Native) — pencetakan label produk via printer thermal Bluetooth
-- Memperdalam Reinforcement Learning & *fairness-constrained decision making*
+- Memperdalam Artificial Intelligence, Machine Learning dan Deep Learning*
 - Terbuka untuk diskusi Laravel, React/Inertia, React Native, dan riset RL/NLP
 
 ---
@@ -34,30 +34,20 @@ Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcemen
 
 ---
 
-## Area Kerja
-
-```mermaid
-flowchart LR
-    A["Software Engineering\n(Laravel · React · React Native)"] -->|dipakai untuk membangun| B["Produk Production\n(POS, WMS, Sistem Informasi Institusi)"]
-    C["AI / ML Research\n(Reinforcement Learning · NLP · Computer Vision)"] -->|diterapkan pada| D["Masalah Sosial\n(Distribusi Zakat, Verifikasi Hafalan)"]
-    A -.pola berpikir sistem yang sama.-> C
-```
-
 ---
 
 ## Proyek Unggulan
 
 ### Produk Production-Grade
 
-Repositori bersifat privat (milik klien/perusahaan) — dicantumkan sebagai ringkasan pekerjaan, bukan tautan repo publik.
+Repositori bersifat privat (milik klien/perusahaan)
 
 | Proyek | Deskripsi | Stack |
 |---|---|---|
-| **PosRitel — Platform POS** | Sistem Point-of-Sale lengkap: aplikasi web + aplikasi Android yang dipublikasikan di Google Play | Laravel · React |
+| **PosRitel.com** | Sistem Point-of-Sale lengkap: aplikasi web + aplikasi Android yang dipublikasikan di Google Play | Laravel · React |
 | **PosRitel Mobile** | Aplikasi label printer barcode/harga ke printer thermal via Bluetooth SPP | React Native · Bare CLI |
 | **POS + WMS System** | Sistem POS terintegrasi Warehouse Management, lintas platform (web, Android, iOS, tablet) | Laravel · Inertia.js · React · MS SQL Server |
 | **Sistem Informasi LAZIS Darul Hikam** | Modul keuangan, penyaluran dana, absensi, dan campaign donasi untuk institusi ZIS; migrasi dari Blade/jQuery ke Vite + Inertia + React | Laravel · Inertia.js · React |
-| **QMS Teller Dashboard** | Webform & dashboard pelacakan transaksi teller pada sistem antrian cabang bank | Web App · Dashboard |
 
 ### Riset & Proyek Open Source
 
