@@ -10,7 +10,7 @@ Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung dengan GPA 3.65/4.00 
 
 ## Ringkasan
 
-Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Reinforcement Learning, dan Islamic Social Finance**.
+Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Deep Learning dan Generative AI**.
 
 Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate, memadukan rekayasa perangkat lunak yang matang dengan riset AI yang berorientasi dampak sosial.
 
@@ -70,16 +70,7 @@ Repositori bersifat privat (milik klien/perusahaan)
 **Distribusi bahasa pemrograman (berdasarkan jumlah repositori):**
 
 ```
-JavaScript        ████████  8
-Jupyter Notebook   ███████  7
-Python             ████     4
-Kotlin             ███      3
-HTML               ██       2
-Java               █        1
-PHP                █        1
-CSS                █        1
-EJS                █        1
-C++                █        1
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,jupyter,r,git,github,vscode,mysql&theme=dark" alt="Skills" /> </p>
 ```
 
 Aktivitas terbaru berpusat pada proyek **Machine Learning / Deep Learning** (klasifikasi citra, NLP, dan RL), didukung fondasi proyek web (Laravel/React) dan mobile (Kotlin/React Native) dari pekerjaan-pekerjaan sebelumnya.
@@ -88,7 +79,7 @@ Aktivitas terbaru berpusat pada proyek **Machine Learning / Deep Learning** (kla
 
 ## Pendidikan
 
-**S1 Teknik Informatika** — UIN Sunan Gunung Djati Bandung
+**S1 Teknik Informatika** | UIN Sunan Gunung Djati Bandung
 Skripsi: *Hybrid Long-Term Fairness (HLTF) dalam Constrained Reinforcement Learning untuk Distribusi Zakat Dinamis*
 
 ---
