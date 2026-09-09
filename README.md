@@ -62,9 +62,7 @@ Repositori bersifat privat (milik klien/perusahaan)
 ---
 
 ## Aktivitas GitHub
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,jupyter,r,git,github,vscode,mysql&theme=dark" alt="Skills" /> </p>
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=febryofibonacciamadeo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryofibonacciamadeo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryofibonacciamadeo&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febryofibonacciamadeo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=febryofibonacciamadeo&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
 
 <p align="center"> </p> <p align="center"> <img src="https://ghchart.rshah.org/febryofibonacciamadeo" alt="GitHub Contribution Chart" /> </p>
 
