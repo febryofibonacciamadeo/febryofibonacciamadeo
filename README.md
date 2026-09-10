@@ -10,12 +10,12 @@ Lulusan Teknik Informatika, UIN Sunan Gunung Djati Bandung dengan GPA 3.65/4.00 
 
 ## Ringkasan
 
-Software engineer dengan pengalaman menangani siklus penuh pengembangan produk — dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Deep Learning dan Generative AI**.
+Software engineer dengan pengalaman menangani siklus penuh pengembangan produk dari sistem **Point-of-Sale**, **Warehouse Management**, hingga **sistem informasi institusi** untuk kebutuhan bisnis nyata di Laravel, React, dan React Native. Di luar pekerjaan komersial, aktif melakukan riset pada irisan **Machine Learning, Deep Learning dan Generative AI**.
 
 Skripsi *Hybrid Long-Term Fairness (HLTF)* menerapkan **Constrained Reinforcement Learning (PPO-Lagrangian)** untuk mengoptimalkan distribusi zakat di 30 kecamatan Kota Bandung, dengan *fairness constraint* eksplisit berbasis Long-Term Benefit Rate, memadukan rekayasa perangkat lunak yang matang dengan riset AI yang berorientasi dampak sosial.
 
 **Fokus saat ini:**
-- Mengembangkan **PosRitel Mobile** (React Native) — pencetakan label produk via printer thermal Bluetooth
+- Mengembangkan **PosRitel Mobile** (React Native) pencetakan label produk via printer thermal Bluetooth
 - Memperdalam Artificial Intelligence, Machine Learning dan Deep Learning*
 - Terbuka untuk diskusi Laravel, React/Inertia, React Native, dan riset RL/NLP
 
